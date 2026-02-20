@@ -45,7 +45,7 @@ header {
 button {
   margin: 5px;                       /* Espaçamento externo */
   padding: 10px 15px;                /* Espaçamento interno */
-  background-color: #3840b3;         /* Cor de fundo azul */
+  background-color: #9b66f0;         /* Cor de fundo azul */
   color: white;                      /* Cor do texto */
   border: none;                      /* Remove borda padrão */
   border-radius: 5px;                /* Cantos arredondados */
@@ -54,7 +54,7 @@ button {
 }
 
 button:hover {
-  background-color: #332391;        /* Cor mais escura no hover */
+  background-color: #8f4acf;        /* Cor mais escura no hover */
 }
 
 /* ===== SEÇÕES DE CONTEÚDO ===== */
@@ -70,7 +70,7 @@ section {
 /* Títulos das seções */
 h2 {
   color: #2c3e50;                   /* Cor azul escuro */
-  border-bottom: 2px solid #6738b1; /* Linha inferior azul */
+  border-bottom: 2px solid #794ebd; /* Linha inferior azul */
   padding-bottom: 5px;              /* Espaço entre texto e linha */
   margin-bottom: 15px;              /* Margem inferior */
 }
